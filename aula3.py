@@ -9,6 +9,16 @@ print (1234)
 
 
 # Aspas simples
+print ('Geraldo Humberto')
+print ('Geraldo "Humberto"')
+
+
 # Aspas duplas
+print ("Geraldo Humberto")
+
 # Escape
+print ("Geraldo \"Humberto")
+print ("Geraldo 'Humberto'")
+
 # r
+print (r"Geraldo \"Humberto\"")
